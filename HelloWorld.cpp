@@ -1,5 +1,5 @@
 # include <iostream> 
 
 int main() {
-	std::cout << "Ehllwooo world!" << std::endl; 
+	std::cout << "Ehllwooo world! hjust skiind" << std::endl; 
 }
